@@ -7,3 +7,4 @@ clean_data=raw_data.copy()
 clean_data.info()
 
 clean_data.to_pickle("clean_data.pkl") #enregistre le df nettoyé dans un fichier pickle
+
